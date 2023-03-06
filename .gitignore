@@ -40,3 +40,4 @@ mvnw
 mvnw.cmd
 lib
 .mvn
+.idea
